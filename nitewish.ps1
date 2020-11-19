@@ -1,0 +1,1 @@
+copy $env:systemroot\inf\setupapi.dev.log $home
